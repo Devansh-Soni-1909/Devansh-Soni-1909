@@ -2,7 +2,6 @@
 <h3 align="center">A passionate learner from India, building skills in cloud computing and exploring scalable and secure cloud infrastructures.</h3>
 <img align="centre" alt="Coding" width="1000" height="500" src="https://cdn.dribbble.com/users/1912990/screenshots/6129020/media/adf5b14ee2e6d0e8d75271e16299b8c8.gif">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devansh-soni-1909&label=Profile%20views&color=0e75b6&style=flat" alt="devansh-soni-1909" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devansh-soni-1909" alt="devansh-soni-1909" /></a> </p>
